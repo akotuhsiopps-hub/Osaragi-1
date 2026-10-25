@@ -1,26 +1,26 @@
- {
-  "YIROSHIONTOP": {
-    "password": "YIROSHIONTOP",
-    "blocked":  false,
-    "expire": "2026-12-07 23:59",
+  {
+  "OSARAGI": {
+    "password": "OSARAGIFREEKEY",
+    "blocked": false,
+    "expire": "2026-12-12 23:59",
     "max": 24,
     "used": 23,
-    "message": "WALA FEEDBACK LARO GUSTO ARAY MO PAKAK"
+    "message": "TIME TO BLOCK 3DAYS NYU GINAGAMIT"
   },
-  "OPPOSITE01": {
-    "password": "OPPOSITE",
+  "osaragi": {
+    "password": "OSARAGILIFETIME",
     "blocked": false,
     "expire": "2026-12-04 23:59",
     "max": 50,
     "used": 0,
     "message": "WELCOME OSA"
   },
-  "oppositev2": {
-    "password": "OPPOSITEONTOPV2",
+  "Osa": {
+    "password": "3DAYSACCESS",
     "blocked": false,
-    "expire": "2026-02-02 23:59",
+    "expire": "2026-02-10 17:59",
     "max": 10,
     "used": 2,
     "message": "WELCOME TOJI"
   }
-}
+  }
